@@ -1,4 +1,4 @@
-package site.metacoding.demo.config;
+package site.metacoding.firstapp.config;
 
 import javax.sql.DataSource;
 
